@@ -1,4 +1,3 @@
-observacoes da aula.txt
 luis.accampora@36DE251323 MINGW64 ~/Documents/SENAC-02 (main)
 $ git config --global user.name "luis eduardo"
 
