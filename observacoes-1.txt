@@ -1,4 +1,5 @@
 observacoes:
+trevoblog
 
 curriculo ideal
 n8n 
@@ -6,4 +7,14 @@ powerautomate plataforma lowcode
 automacao de tarefas: pyautogui   selenium
 
 linkedin procurar vagas em publicacoes
+
+
+
 metodologia agil scrum kamban 
+
+
+
+Linkedin Titulo: analista de dados | python | Power BI | SQL | Pandas
+
+
+
