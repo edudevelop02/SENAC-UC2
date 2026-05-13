@@ -9,7 +9,7 @@ automacao de tarefas: pyautogui   selenium
 linkedin procurar vagas em publicacoes
 
 
-
+https://kahoot.it/    jogo
 metodologia agil scrum kamban 
 
 
