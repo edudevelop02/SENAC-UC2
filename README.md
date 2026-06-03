@@ -1,4 +1,4 @@
-# Analista de dados /
+| Analista de Sistemas |
 | Desenvolvedor de software | COBOL Micro Focus | Python
 | Linux | Unix | Git | Analise de Dados | Power BI |
 
